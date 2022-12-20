@@ -35,7 +35,7 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-<img src="https://github-readme-stats.vercel.app/api?username=JonSpircoff7&count_private=true&show_icons=true&include_all_commits=true" style="width: 49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonspircoff7&hide=TeX&layout=compact" style="width: 49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JonSpircoff7&count_private=true&show_icons=true&include_all_commits=true" style="width: 45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonspircoff7&hide=TeX&layout=compact" style="width: 45%"/>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jonspircoff7.jonspircoff7)
